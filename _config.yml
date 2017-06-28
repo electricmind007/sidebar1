@@ -34,3 +34,5 @@ defaults:
       toc: bigtoc
       navmenu: navmenu
 
+
+theme: jekyll-theme-leap-day
